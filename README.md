@@ -1,6 +1,6 @@
 # Weiterentwicklung des Kaffee-Abrechnungssystems mit Nutzerverwaltung & Webportal
 
-[Übersicht der Komponenten des Kaffee-Abrechnungssystems](kaffepi.png)
+![Übersicht der Komponenten des Kaffee-Abrechnungssystems](kaffepi.png)
 
 *Teckstack: Java, SpringBoot, Postregres, React JS, Material UI, Electron Framework*
 
